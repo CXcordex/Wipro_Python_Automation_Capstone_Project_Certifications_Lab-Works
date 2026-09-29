@@ -293,4 +293,10 @@ pytest tests/pytest_tests/ --headless -v
 
 ---
 
+## 🎬 Project Demonstration
+
+📹 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1-PN2kK4ExuQjryomDgdGwejVuQyVhe0H/view?usp=drive_link)
+
+---
+
 *Submitted by: Sayan Roy Chowdhury | IEM SaltLake | Capstone Assignment 2*

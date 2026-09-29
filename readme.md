@@ -2,6 +2,8 @@
 
 A comprehensive software quality assurance and test automation portfolio demonstrating end-to-end framework engineering, browser control engines, dynamic DOM locator strategies, and enterprise test architecture.
 
+🎬 **Project Demonstration Video:** [Watch on Google Drive](https://drive.google.com/file/d/1-PN2kK4ExuQjryomDgdGwejVuQyVhe0H/view?usp=drive_link)
+
 ---
 
 ## 📌 Table of Contents
@@ -313,3 +315,7 @@ The scripts and frameworks in this repository were engineered and validated on *
 - **Enrollment No:** 12023052004075
 - **Specialization Curriculum:** Software QA, Test Automation & Framework Architecture
 - **Date:** September 2026
+
+---
+
+> © 2026 Sayan Roy Chowdhury | IEM SaltLake. All rights reserved.
