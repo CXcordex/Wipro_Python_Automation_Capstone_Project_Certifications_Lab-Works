@@ -27,15 +27,14 @@ A comprehensive software quality assurance and test automation portfolio demonst
 
 ## 🎓 Curriculum & Certification Summary
 
-This portfolio encompasses 5 rigorous technical specializations (30 total instructional and applied hours) completed in September 2026, covering automated browser engines, object-oriented design patterns, data-driven pipelines, and continuous integration.
+This portfolio encompasses 4 rigorous technical specializations completed in September 2026, covering automated browser engines, object-oriented design patterns, data-driven pipelines, and continuous integration.
 
 | # | Course Title | Provider / Instructor | Core Focus | Key Technologies |
 |---|---|---|---|---|
 | **1** | **Python for Automation** | Madecraft | Scripting, automated file management, structured/unstructured parsing, API integration | Python, REST APIs, JSON, XML, HTML, CSS |
 | **2** | **Introduction to Selenium** | Karlis Zars | Core web automation concepts, DOM querying, debugging workflows, web scraping | Selenium WebDriver, CSS Selectors, Browser Automation |
 | **3** | **Selenium WebDriver with Python** | Whizlabs | WebDriver architecture, multi-window/alert/frame handling, test organization | Python, Selenium WebDriver, `pytest`, `unittest` |
-| **4** | **Selenium Automation & Frameworks** | Packt | Page Object Model (POM), data-driven testing (CSV/Excel), Selenium Grid, headless tests | Java, Selenium WebDriver, Selenium Grid, POM, Apache POI |
-| **5** | **Playwright (Python) & Robot Framework** | Industry Professionals | Next-gen browser automation, keyword-driven testing, trace analysis, CI/CD tagging | Playwright, Robot Framework, CI/CD, Trace/Log Analyzers |
+| **4** | **Playwright (Python) & Robot Framework** | Industry Professionals | Next-gen browser automation, keyword-driven testing, trace analysis, CI/CD tagging | Playwright, Robot Framework, CI/CD, Trace/Log Analyzers |
 
 ---
 
